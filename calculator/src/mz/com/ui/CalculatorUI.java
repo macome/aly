@@ -91,7 +91,7 @@ public class CalculatorUI extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				int internet = 50;
 				if(textField.getText().length() == 0 || textField.getText().trim().equals("")) {
-					textArea.setText("Fuck you!\n" + "Preencha o Campo Valor Com um numero! ");
+					textArea.setText("Por favor!\n" + "Preencha o Campo Valor Com um numero! ");
 					return;
 				}
 				double valor = Double.parseDouble(textField.getText());
