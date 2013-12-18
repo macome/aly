@@ -65,7 +65,7 @@ public class CalculatorUI extends JFrame {
 		panel.add(scrollPane, "cell 0 0,grow");
 		
 		final JTextArea textArea = new JTextArea();
-		textArea.setText("Bem Vindo ao Calculator!");
+		textArea.setText("well come to calculate!");
 		textArea.setEditable(false);
 		textArea.setForeground(Color.DARK_GRAY);
 		textArea.setFont(new Font("DejaVu Sans", Font.BOLD, 14));
