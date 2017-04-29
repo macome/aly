@@ -56,10 +56,10 @@
 <div class="row">
 
 	<div class="col-md-10">
-		<div class="input-group">
+		<!--<div class="input-group">
   			<input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
   			<span class="input-group-addon" id="basic-addon2">@example.com</span>
-		</div>
+		</div>-->
 
 		<div class="box box-default">
 		    <div class="carros index">
